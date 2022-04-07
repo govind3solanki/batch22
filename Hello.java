@@ -1,5 +1,5 @@
 class Hello{
 public static void main(String args[]){
-System.out.println("sd,fhksd");
+System.out.println("hello");
 }
 }
